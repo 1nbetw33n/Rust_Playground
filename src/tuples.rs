@@ -72,5 +72,6 @@ pub fn tuples_main(){
     println!("{:?}", matrix);
     println!("{}", matrix);
     println!("{}", transpose(matrix));
+    //FUCK THAT
 
 }
